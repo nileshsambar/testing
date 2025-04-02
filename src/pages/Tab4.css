@@ -1,0 +1,4 @@
+/* Custom styles for gradient and hover effects */
+.bg-gradient {
+    background: linear-gradient(90deg, #6EE7B7 0%, #3B82F6 100%);
+  }
